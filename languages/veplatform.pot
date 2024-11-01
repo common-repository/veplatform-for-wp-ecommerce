@@ -1,0 +1,137 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VePlatform\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-17 17:07+0100\n"
+"POT-Revision-Date: Tue Jul 28 2015 17:14:44 GMT+0300 (GTB Summer Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Ve Interactive <redbull@veinteractive.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: ro_RO\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\n"
+"X-Poedit-SearchPathExcluded-0: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\languages\n"
+"X-Poedit-SearchPathExcluded-1: C:\\Vagrant\\woocommerce\\public\\wordpress\\wp-"
+"content\\plugins\\veplatform\\assets\n"
+"X-Loco-Parser: loco_parse_mo\n"
+"X-Loco-Target-Locale: en_GB"
+
+msgid "VE_ACCOUNT_MANAGER_CONTACT"
+msgstr ""
+
+msgid "VE_ACTIVATING_VE_APPS"
+msgstr ""
+
+msgid "VE_ALREADY_CLIENT"
+msgstr ""
+
+msgid "VE_BEST_REGARDS"
+msgstr ""
+
+msgid "VE_BY_INTEGRATING_VEPLATFORM"
+msgstr ""
+
+msgid "VE_CLOSE_APP_DETAILS"
+msgstr ""
+
+msgid "VE_CONFIRM_SELECTION"
+msgstr ""
+
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_1"
+msgstr ""
+
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_2"
+msgstr ""
+
+msgid "VE_CONNECTION_ERROR_WITH_VEINTERACTIVE_DOUBT"
+msgstr ""
+
+msgid "VE_COPY_RIGHTS"
+msgstr ""
+
+msgid "VE_CREATIVE_EXAMPLES_APP"
+msgstr ""
+
+msgid "VE_DESCRIPTION_VEADS"
+msgstr ""
+
+msgid "VE_DESCRIPTION_VEASSIST"
+msgstr ""
+
+msgid "VE_DESCRIPTION_VEPROMPT"
+msgstr ""
+
+msgid "VE_DESCRIPTION_VECONTACT"
+msgstr ""
+
+msgid "VE_DYNAMIC_DISPLAY_ADVERTISING"
+msgstr ""
+
+msgid "VE_ERROR_INSTALLING_1"
+msgstr ""
+
+msgid "VE_ERROR_INSTALLING_2"
+msgstr ""
+
+msgid "VE_FIND_OUT_MORE"
+msgstr ""
+
+msgid "VE_INCREASE_CONVERSION"
+msgstr ""
+
+msgid "VE_INCREASE_WEBSITE_CONVERSION"
+msgstr ""
+
+msgid "VE_INFO_LEGAL_TEXT"
+msgstr ""
+
+msgid "VE_LINK"
+msgstr ""
+
+msgid "VE_LOGIN"
+msgstr ""
+
+msgid "VE_NEXT_STEPS"
+msgstr ""
+
+msgid "VE_NOW_CHOOSE_APPLICATIONS"
+msgstr ""
+
+msgid "VE_PLEASE_SELECT_APPS"
+msgstr ""
+
+msgid "VE_REACH_PROSPECTS"
+msgstr ""
+
+msgid "VE_RECOVER_LOST_SALES"
+msgstr ""
+
+msgid "VE_RECOVER_LOST_SHOPPING_CARTS"
+msgstr ""
+
+msgid "VE_REDUCE_BOUNCE_RATE"
+msgstr ""
+
+msgid "VE_SEARCH_OPTIMIZATION"
+msgstr ""
+
+msgid "VE_THANK_YOU_FOR_INSTALLING"
+msgstr ""
+
+msgid "VE_THANK_YOU_FOR_SELECTING"
+msgstr ""
+
+msgid "VE_THANK_YOU_FOR_SELECTING_APP"
+msgstr ""
